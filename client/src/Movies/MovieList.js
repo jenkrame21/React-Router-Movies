@@ -25,3 +25,5 @@ function MovieDetails(props) {
     </div>
   );
 }
+
+//`/movies/{id of clicked movie here}`
